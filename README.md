@@ -36,9 +36,7 @@
 
 7. Run app localy with: ```python manage.py runserver```.
 
-8. Run python-script to test in other terminal with: ```python manage.py test```.
-
-9. Download postman from: ```https://www.postman.com/downloads/```.
+8. Download postman from: ```https://www.postman.com/downloads/```.
 
 
 ## Task: 
